@@ -2,6 +2,9 @@
 
 source("utils.R")
 
+#I have better comment to mention
+print("Hello, World!")
+
 # Simulate a dataset
 set.seed(123)
 data_points <- rnorm(100, mean = 50, sd = 10)
